@@ -68,7 +68,7 @@ def network_monitoring(pkt):
     if packet_info:
         log_packet(packet_info)
         print(packet_info)
-        print("-" * 60)  # Add a separator for better readability
+        print("-" * 60)  
 
 if __name__ == '__main__':
     banner = figlet.renderText("zark")
@@ -79,3 +79,4 @@ if __name__ == '__main__':
         sniff(prn=network_monitoring)
     except KeyboardInterrupt:
         print("Network Monitoring Stopped.")
+#If you see my Ex.Please tell that ("Zaw Wanz will always love you 'Shwe'")
