@@ -59,4 +59,3 @@ This tool was inspired by the Exploit-DB article: [Network Traffic Capture Using
 
 - Original source and inspiration: [Exploit-DB Article](https://www.exploit-db.com/docs/48606)
 
-```
