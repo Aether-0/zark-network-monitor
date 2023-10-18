@@ -1,5 +1,3 @@
-# zark-network-monitor
-```markdown
 # Zark Network Monitor
 
 Zark Network Monitor is a simple Python script that allows you to monitor network traffic and log information about incoming and outgoing packets. This tool uses the Scapy library to capture and analyze network packets and provides information such as timestamp, source/destination IP and MAC addresses, packet size, and the protocol used (TCP, UDP, or other).
