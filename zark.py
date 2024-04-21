@@ -72,7 +72,7 @@ def network_monitoring(pkt):
 
 if __name__ == '__main__':
     banner = figlet.renderText("zark")
-    print(Fore.RED + "Author:            Zaw Wanz" + Fore.RESET)
+    print(Fore.RED + "Author:            Aether" + Fore.RESET)
     print(Fore.MAGENTA + banner + Fore.RESET)
     print("Network Monitoring Started. Press Ctrl+C to stop.")
     try:
